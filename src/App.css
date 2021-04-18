@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+.abtme-head{
+height: 56px;
+left: 359px;
+top: 77px;
+margin-left: 20rem;
+/* background-color: aqua; */
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: normal;
+
+color: #000000;
+} 
+.abtme-head-text{
+ margin-left: auto;
+ position: absolute;
+width: 208px;
+height: 56px;
+left: 359px;
+top: 77px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+color: #000000;
+}
+.box{
+ position: absolute;
+width: 900px;
+height: 300px;
+left: 359p,ax;
+top: 225px;
+margin-top: 0;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
